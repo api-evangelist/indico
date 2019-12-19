@@ -1,0 +1,59 @@
+{
+    "name": "Indico",
+    "description": "indico turns raw text and image data into human insights. We???re lowering the barriers to the development, integration, and customization of machine learning algorithms by providing developer-friendly tools and APIs for building smarter software",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28243-indico-io.jpg",
+    "tags": [
+        "api provider",
+        "artificial intelligence",
+        "data",
+        "have api",
+        "machine learning"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/indico\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Indico",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28243-indico-io.jpg",
+            "humanURL": "https:\/\/indico.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/indico-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/indico-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/indico-data-solutions"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.getindico.io\/en\/stable\/"
+        },
+        {
+            "type": "Email",
+            "url": "contact@indico.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/indicoData"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/indico.io"
+        }
+    ]
+}
